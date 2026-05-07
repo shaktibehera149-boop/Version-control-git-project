@@ -2,5 +2,9 @@
     {
         "name": "Shakti",
         "course": "BTech"
+    },
+    {
+        "name": "Rahul",
+        "course": "MCA"
     }
 ]
